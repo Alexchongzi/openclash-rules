@@ -1,0 +1,23 @@
+# ===== AI Tools =====
+
+# OpenAI / ChatGPT
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
+
+# Claude
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claudeusercontent.com
+
+# Google Gemini
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN,generativelanguage.googleapis.com
+
+# Others
+DOMAIN-SUFFIX,poe.com
+DOMAIN-KEYWORD,perplexity
+DOMAIN-KEYWORD,suno
+DOMAIN-SUFFIX,x.ai
