@@ -1,0 +1,18 @@
+# ===== Logistics =====
+DOMAIN-SUFFIX,dhl.com
+DOMAIN-SUFFIX,dhl.com.cn
+DOMAIN-SUFFIX,fedex.com
+DOMAIN-SUFFIX,fedex.com.cn
+DOMAIN-SUFFIX,ups.com
+DOMAIN-SUFFIX,ups.com.cn
+
+# ===== China Banks =====
+DOMAIN-SUFFIX,icbc.com.cn
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,bankcomm.com
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,psbc.com
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,china-citicbank.com
+DOMAIN-SUFFIX,spdb.com.cn
